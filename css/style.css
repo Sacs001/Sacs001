@@ -1,0 +1,37 @@
+*{
+    font-family: 'Exo 2', sans-serif;
+
+    /* font-family: 'PT Sans', sans-serif; */
+};
+
+.nav{
+    background: blue;
+}
+.header_bg{
+    height: 770px;
+    width:729px;
+    
+    /* box-sizing: border-box; */
+};
+
+.heading_logo{
+
+    position: absolute;
+    width: 466px;
+    height: 100px;
+    left: 39px;
+    top: 80px;
+    font-family: Exo 2;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 125%;
+    color: #363738;
+
+};
+
+.box{
+    height: 40px;
+    width: 40px;
+    background: blue;
+}
